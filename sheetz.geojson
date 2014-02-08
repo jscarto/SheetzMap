@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #3",
         " address": "1100 Blair St Hollidaysburg PA 16648"
       },
@@ -20,6 +21,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #7",
         " address": "5706 6th Ave Altoona PA 16602"
       },
@@ -35,6 +37,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #10",
         " address": "1330 Moore St Huntingdon PA 16652"
       },
@@ -50,6 +53,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #11",
         " address": "1230 14th Ave Altoona PA 16601"
       },
@@ -65,6 +69,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #14",
         " address": "3315 Beale Ave Altoona PA 16601"
       },
@@ -80,6 +85,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #15",
         " address": "1400 Logan Ave Tyrone PA 16686"
       },
@@ -95,6 +101,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #19",
         " address": "768 Wayne Ave Indiana PA 15701"
       },
@@ -110,6 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #21",
         " address": "490 Central Ave Johnstown PA 15902"
       },
@@ -125,6 +133,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #22",
         " address": "208 Haynes St Johnstown PA 15901"
       },
@@ -140,6 +149,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #23",
         " address": "11 W Main St Everett PA 15537"
       },
@@ -155,6 +165,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #27",
         " address": "1500 Graham Ave Windber PA 15963"
       },
@@ -170,6 +181,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #28",
         " address": "9402 Lincoln Hwy Bedford PA 15522"
       },
@@ -185,6 +197,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #29",
         " address": "5 E Market St Blairsville PA 15717"
       },
@@ -200,6 +213,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #31",
         " address": "380 Philadelphia St Indiana PA 15701"
       },
@@ -215,6 +229,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #32",
         " address": "720 Lincoln Way E Mcconnellsburg PA 17233"
       },
@@ -230,6 +245,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #33",
         " address": "718 Bellwood Rd Altoona PA 16601"
       },
@@ -245,6 +261,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #34",
         " address": "1701 7th Ave Altoona PA 16602"
       },
@@ -260,6 +277,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #35",
         " address": "1371 Plank Rd Duncansville PA 16635"
       },
@@ -275,6 +293,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #38",
         " address": "405 East 25th Ave Altoona PA 16601"
       },
@@ -290,6 +309,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #40",
         " address": "201 N Jefferson St Mount Union PA 17066"
       },
@@ -305,6 +325,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #41",
         " address": "2045  Bedford St Cumberland MD 21502"
       },
@@ -320,6 +341,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #43",
         " address": "192 W Main St Hancock MD 21750"
       },
@@ -335,6 +357,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #45",
         " address": "948 W High St Ebensburg PA 15931"
       },
@@ -350,6 +373,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #46",
         " address": "14606 Mcmullen Hwy S Cresaptown MD 21502"
       },
@@ -365,6 +389,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #48",
         " address": "115 Pace St Nanty Glo PA 15943"
       },
@@ -380,6 +405,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #49",
         " address": "101 Main St Portage PA 15946"
       },
@@ -395,6 +421,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #51",
         " address": "210 Greene St Cumberland MD 21502"
       },
@@ -410,6 +437,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #52",
         " address": "304 Magee Ave Patton PA 16668"
       },
@@ -425,6 +453,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #55",
         " address": "4025 Crawford Ave Northern Cambria PA 15714"
       },
@@ -440,6 +469,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #57",
         " address": "457 E Main St Somerset PA 15501"
       },
@@ -455,6 +485,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #58",
         " address": "1281 E Main St Clarion PA 16214"
       },
@@ -470,6 +501,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #59",
         " address": "2853 Ligonier St Latrobe PA 15650"
       },
@@ -485,6 +517,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #60",
         " address": "118 S Rosina Ave Somerset PA 15501"
       },
@@ -500,6 +533,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #61",
         " address": "825 Franklin St Clymer PA 15728"
       },
@@ -515,6 +549,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #62",
         " address": "10601 New Georges Cr Frostburg MD 21532"
       },
@@ -530,6 +565,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #63",
         " address": "701 E Dubois Ave Dubois PA 15801"
       },
@@ -545,6 +581,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #64",
         " address": "808 N Front St Philipsburg PA 16866"
       },
@@ -560,6 +597,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #65",
         " address": "1000 Broad St Johnstown PA 15906"
       },
@@ -575,6 +613,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #66",
         " address": "300 W Main St Brookville PA 15825"
       },
@@ -590,6 +629,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #68",
         " address": "100 E Potomac St Williamsport MD 21795"
       },
@@ -605,6 +645,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #69",
         " address": "1 Monticello Ct Chambersburg PA 17201"
       },
@@ -620,6 +661,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #70",
         " address": "359 E King St Shippensburg PA 17257"
       },
@@ -635,6 +677,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #72",
         " address": "301 N 3rd St Youngwood PA 15697"
       },
@@ -650,6 +693,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #73",
         " address": "101 Nichols St Clearfield PA 16830"
       },
@@ -665,6 +709,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #74",
         " address": "700 Potomac Ave Hagerstown MD 21740"
       },
@@ -680,6 +725,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #75",
         " address": "107 Franklin St Slippery Rock PA 16057"
       },
@@ -695,6 +741,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #76",
         " address": "1315 Lincoln Way E Chambersburg PA 17201"
       },
@@ -710,6 +757,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #79",
         " address": "100 Elk Run Ave Punxsutawney PA 15767"
       },
@@ -725,6 +773,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #82",
         " address": "301 E Washington St Hagerstown MD 21740"
       },
@@ -740,6 +789,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #84",
         " address": "1107 Liberty St Franklin PA 16323"
       },
@@ -755,6 +805,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #86",
         " address": "1791 Goucher St Johnstown PA 15905"
       },
@@ -770,6 +821,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #87",
         " address": "5 S Broadway St Scottdale PA 15683"
       },
@@ -785,6 +837,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #89",
         " address": "24 Center St Meyersdale PA 15552"
       },
@@ -800,6 +853,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #92",
         " address": "111 E Main St Monongahela PA 15063"
       },
@@ -815,6 +869,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #96",
         " address": "138 N Broad St Ridgway PA 15853"
       },
@@ -830,6 +885,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #99",
         " address": "325 Freeport St New Kensington PA 15068"
       },
@@ -845,6 +901,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #100",
         " address": "1661 E Pleasant Vall Altoona PA 16602"
       },
@@ -860,6 +917,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #101",
         " address": "503 Main St Ford City PA 16226"
       },
@@ -875,6 +933,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #113",
         " address": "101 Forest Hills Dr  Sidman PA 15955"
       },
@@ -890,6 +949,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #114",
         " address": "100 Walnut St Kittanning PA 16201"
       },
@@ -905,6 +965,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #115",
         " address": "8607 Perry Hwy Pittsburgh PA 15237"
       },
@@ -920,6 +981,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #116",
         " address": "215 W Baltimore St Greencastle PA 17225"
       },
@@ -935,6 +997,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #121",
         " address": "103 N Main St Harrisville PA 16038"
       },
@@ -950,6 +1013,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #122",
         " address": "1781 N Atherton St State College PA 16803"
       },
@@ -965,6 +1029,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #123",
         " address": "5300 Route 8 Gibsonia PA 15044"
       },
@@ -980,6 +1045,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #124",
         " address": "1002 W Crawford Ave Connellsville PA 15425"
       },
@@ -995,6 +1061,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #126",
         " address": "245 S Washington St Berkeley Springs WV 25411"
       },
@@ -1010,6 +1077,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #127",
         " address": "128 South Main Stree Carrolltown PA 15722"
       },
@@ -1025,6 +1093,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #128",
         " address": "499 Adams St Rochester PA 15074"
       },
@@ -1040,6 +1109,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #129",
         " address": "429 Virginia Ave Cumberland MD 21502"
       },
@@ -1055,6 +1125,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #130",
         " address": "899 Freeport Rd Creighton PA 15030"
       },
@@ -1070,6 +1141,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #132",
         " address": "226 E Baltimore St Taneytown MD 21787"
       },
@@ -1085,6 +1157,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #133",
         " address": "1329 Freedom Road Cranberry Township PA 16066"
       },
@@ -1100,6 +1173,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #136",
         " address": "105 N Erie St Mercer PA 16137"
       },
@@ -1115,6 +1189,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #137",
         " address": "3728 Charles Town Rd Kearneysville WV 25430"
       },
@@ -1130,6 +1205,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #139",
         " address": "294 Main St Greenville PA 16125"
       },
@@ -1145,6 +1221,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #141",
         " address": "35 E King St Littlestown PA 17340"
       },
@@ -1160,6 +1237,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #143",
         " address": "7899 Winchester Ave Inwood WV 25428"
       },
@@ -1175,6 +1253,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #144",
         " address": "268 Genny Loop Moorefield WV 26836"
       },
@@ -1190,6 +1269,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #145",
         " address": "18717 Longmeadow Rd Hagerstown MD 21742"
       },
@@ -1205,6 +1285,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #146",
         " address": "1408 Main St Brockway PA 15824"
       },
@@ -1220,6 +1301,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #147",
         " address": "5 N 3rd St Oakland MD 21550"
       },
@@ -1235,6 +1317,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #148",
         " address": "2120 Blinker Pkwy Dubois PA 15801"
       },
@@ -1250,6 +1333,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #149",
         " address": "124 N Brady St Dubois PA 15801"
       },
@@ -1265,6 +1349,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #150",
         " address": "2000 E College Ave State College PA 16801"
       },
@@ -1280,6 +1365,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #151",
         " address": "1 W 4th St Emporium PA 15834"
       },
@@ -1295,6 +1381,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #152",
         " address": "3611 4th Ave Beaver Falls PA 15010"
       },
@@ -1310,6 +1397,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #153",
         " address": "18425 Smock Hwy Meadville PA 16335"
       },
@@ -1325,6 +1413,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #154",
         " address": "211 Harvey Ave Greensburg PA 15601"
       },
@@ -1340,6 +1429,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #155",
         " address": "1617 W King St Martinsburg WV 25401"
       },
@@ -1355,6 +1445,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #158",
         " address": "113 Juniata Street Lewistown PA 17044"
       },
@@ -1370,6 +1461,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #159",
         " address": "315 Water St Box 509 Conneaut Lake PA 16316"
       },
@@ -1385,6 +1477,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #160",
         " address": "8332 Martinsburg Pik Shepherdstown WV 25443"
       },
@@ -1400,6 +1493,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #161",
         " address": "5601 Buckeystown Pik Frederick MD 21701"
       },
@@ -1415,6 +1509,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #163",
         " address": "17550 Virginia Ave Hagerstown MD 21740"
       },
@@ -1430,6 +1525,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #164",
         " address": "304 E Main St Westminster MD 21157"
       },
@@ -1445,6 +1541,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #165",
         " address": "208 S Main St Coudersport PA 16915"
       },
@@ -1460,6 +1557,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #166",
         " address": "101 N Main St Port Allegany PA 16743"
       },
@@ -1475,6 +1573,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #167",
         " address": "100 E Main St Box 29 Corriganville MD 21524"
       },
@@ -1490,6 +1589,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #168",
         " address": "1280 New Creek Highw Keyser WV 26726"
       },
@@ -1505,6 +1605,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #169",
         " address": "8711 Woodbury Pike East Freedom PA 16637"
       },
@@ -1520,6 +1621,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #170",
         " address": "525 Ben Franklin Rd  Indiana PA 15701"
       },
@@ -1535,6 +1637,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #171",
         " address": "125 N Main St Philippi WV 26416"
       },
@@ -1550,6 +1653,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #173",
         " address": "3832 State Route 711 Ligonier PA 15658"
       },
@@ -1565,6 +1669,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #174",
         " address": "221 N Crim Ave Belington WV 26250"
       },
@@ -1580,6 +1685,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #175",
         " address": "200 1st St Parsons WV 26287"
       },
@@ -1595,6 +1701,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #176",
         " address": "3842 Burkittsville R Knoxville MD 21758"
       },
@@ -1610,6 +1717,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #177",
         " address": "3281 Main St Manchester MD 21102"
       },
@@ -1625,6 +1733,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #178",
         " address": "5234 Philadelphia Av Chambersburg PA 17201"
       },
@@ -1640,6 +1749,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #179",
         " address": "1189 N Center Ave Somerset PA 15501"
       },
@@ -1655,6 +1765,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #180",
         " address": "136 E Main St Romney WV 26757"
       },
@@ -1670,6 +1781,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #181",
         " address": "820 S Eagle Valley R Bellefonte PA 16823"
       },
@@ -1685,6 +1797,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #182",
         " address": "1220 Johnson Ave Bridgeport WV 26330"
       },
@@ -1700,6 +1813,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #183",
         " address": "2601 Memorial Blvd Connellsville PA 15425"
       },
@@ -1715,6 +1829,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #184",
         " address": "12404 Lauger Ave Hagerstown MD 21740"
       },
@@ -1730,6 +1845,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #185",
         " address": "900 Wayne Ave Chambersburg PA 17201"
       },
@@ -1745,6 +1861,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #186",
         " address": "1503 N Frederick Pik Winchester VA 22601"
       },
@@ -1760,6 +1877,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #187",
         " address": "400 E Plank Rd Altoona PA 16602"
       },
@@ -1775,6 +1893,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #188",
         " address": "270 Edgewood Drive E Transfer PA 16154"
       },
@@ -1790,6 +1909,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #189",
         " address": "1505 Pittsburgh Stre Cheswick PA 15024"
       },
@@ -1805,6 +1925,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #190",
         " address": "2003 Golden Mile Hwy Pittsburgh PA 15239"
       },
@@ -1820,6 +1941,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #191",
         " address": "1098 Harrisburg Pike Carlisle PA 17013"
       },
@@ -1835,6 +1957,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #192",
         " address": "12582 Lord Fairfax H Boyce VA 22620"
       },
@@ -1850,6 +1973,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #193",
         " address": "24578 Route 35 N Mifflintown PA 17059"
       },
@@ -1865,6 +1989,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #194",
         " address": "1867 Rich Hwy Falls Creek PA 15840"
       },
@@ -1880,6 +2005,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #195",
         " address": "6558 Carlisle Pike Mechanicsburg PA 17050"
       },
@@ -1895,6 +2021,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #196",
         " address": "7551 Admiral Peary H Cresson PA 16630"
       },
@@ -1910,6 +2037,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #197",
         " address": "747 Fairfax St Stephens City VA 22655"
       },
@@ -1925,6 +2053,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #198",
         " address": "111 W Reservoir Rd Woodstock VA 22664"
       },
@@ -1940,6 +2069,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #199",
         " address": "1191 Carlisle St Hanover PA 17331"
       },
@@ -1955,6 +2085,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #200",
         " address": "428 N Church St Thurmont MD 21788"
       },
@@ -1970,6 +2101,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #201",
         " address": "1415 S Market St Mechanicsburg PA 17055"
       },
@@ -1985,6 +2117,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #202",
         " address": "2381 S Hermitage Rd Hermitage PA 16148"
       },
@@ -2000,6 +2133,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #203",
         " address": "2311 Valley Ave Winchester VA 22601"
       },
@@ -2015,6 +2149,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #204",
         " address": "4701 William Penn Hw Murrysville PA 15668"
       },
@@ -2030,6 +2165,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #205",
         " address": "15315 Washington St Haymarket VA 20169"
       },
@@ -2045,6 +2181,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #206",
         " address": "39 Berlin Rd Weston WV 26452"
       },
@@ -2060,6 +2197,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #207",
         " address": "1683 Berryville Pike Winchester VA 22602"
       },
@@ -2075,6 +2213,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #208",
         " address": "601 Millwood Ave Winchester VA 22601"
       },
@@ -2090,6 +2229,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #209",
         " address": "20723 National Pike Boonsboro MD 21713"
       },
@@ -2105,6 +2245,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #210",
         " address": "8408 Woodsboro Pike Walkersville MD 21793"
       },
@@ -2120,6 +2261,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #211",
         " address": "811 E Main St Palmyra PA 17078"
       },
@@ -2135,6 +2277,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #212",
         " address": "299 Bryan St Petersburg WV 26847"
       },
@@ -2150,6 +2293,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #213",
         " address": "2511 New Berwick Hwy Bloomsburg PA 17815"
       },
@@ -2165,6 +2309,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #214",
         " address": "4 Clarksburg Rd Buckhannon WV 26201"
       },
@@ -2180,6 +2325,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #215",
         " address": "9681 William Penn Hw Huntingdon PA 16652"
       },
@@ -2195,6 +2341,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #216",
         " address": "38 S Market St Elysburg PA 17824"
       },
@@ -2210,6 +2357,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #217",
         " address": "100 Freeport Rd Butler PA 16001"
       },
@@ -2225,6 +2373,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #218",
         " address": "533 University Blvd Harrisonburg VA 22801"
       },
@@ -2240,6 +2389,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #219",
         " address": "2300 Colonial Rd Harrisburg PA 17112"
       },
@@ -2255,6 +2405,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #220",
         " address": "1465 Edwin Miller Bl Martinsburg WV 25404"
       },
@@ -2270,6 +2421,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #221",
         " address": "10101 James Madison  Bealeton VA 22712"
       },
@@ -2285,6 +2437,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #222",
         " address": "1825 S Main St Harrisonburg VA 22801"
       },
@@ -2300,6 +2453,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #223",
         " address": "100 Ohio River Blvd Baden PA 15005"
       },
@@ -2315,6 +2469,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #224",
         " address": "405 Memory Ln York PA 17402"
       },
@@ -2330,6 +2485,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #225",
         " address": "16417 Lincoln Hwy Breezewood PA 15533"
       },
@@ -2345,6 +2501,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #226",
         " address": "501 E Bellevue Ave Reading PA 19605"
       },
@@ -2360,6 +2517,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #227",
         " address": "405 Galleria Dr Johnstown PA 15904"
       },
@@ -2375,6 +2533,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #228",
         " address": "3625 Peters Mountain Halifax PA 17032"
       },
@@ -2390,6 +2549,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #229",
         " address": "7821 Route 30 Irwin PA 15642"
       },
@@ -2405,6 +2565,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #230",
         " address": "973 S 88 Rd Carmichaels PA 15320"
       },
@@ -2420,6 +2581,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #231",
         " address": "698 W Main St New Holland PA 17557"
       },
@@ -2435,6 +2597,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #232",
         " address": "420 N Baltimore Ave Mt Holly Springs PA 17065"
       },
@@ -2450,6 +2613,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #233",
         " address": "4309 N George Street Manchester PA 17345"
       },
@@ -2465,6 +2629,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #234",
         " address": "239 Three Springs Dr Weirton WV 26062"
       },
@@ -2480,6 +2645,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #235",
         " address": "766 North Susquehann Selinsgrove PA 17870"
       },
@@ -2495,6 +2661,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #236",
         " address": "1158 River Rd Marietta PA 17547"
       },
@@ -2510,6 +2677,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #237",
         " address": "701 Furnace Hills Pi Lititz PA 17543"
       },
@@ -2525,6 +2693,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #238",
         " address": "7020 Seminole Trl Ruckersville VA 22968"
       },
@@ -2540,6 +2709,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #239",
         " address": "205 N Center Ave New Stanton PA 15672"
       },
@@ -2555,6 +2725,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #240",
         " address": "51 Flowing Springs R Charles Town WV 25414"
       },
@@ -2570,6 +2741,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #241",
         " address": "14686 Apple Harvest  Martinsburg WV 25401"
       },
@@ -2585,6 +2757,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #242",
         " address": "1600 Rosemont Ave Frederick MD 21702"
       },
@@ -2600,6 +2773,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #243",
         " address": "600 Blackwell Rd Warrenton VA 20186"
       },
@@ -2615,6 +2789,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #244",
         " address": "4021 Prince William  Woodbridge VA 22193"
       },
@@ -2630,6 +2805,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #245",
         " address": "4662 W Ridge Rd Erie PA 16506"
       },
@@ -2645,6 +2821,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #246",
         " address": "3208 Us 422 New Castle PA 16101"
       },
@@ -2660,6 +2837,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #247",
         " address": "14350 Kutztown Rd Fleetwood PA 19522"
       },
@@ -2675,6 +2853,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #248",
         " address": "2721 Salt Springs Rd Girard OH 44420"
       },
@@ -2690,6 +2869,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #249",
         " address": "1300 E Patrick St Frederick MD 21701"
       },
@@ -2705,6 +2885,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #250",
         " address": "356 New Castle Rd Butler PA 16001"
       },
@@ -2720,6 +2901,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #251",
         " address": "15744 Saint Clair Av East Liverpool OH 43920"
       },
@@ -2735,6 +2917,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #252",
         " address": "14259 Clearfield Sha Clearfield PA 16830"
       },
@@ -2750,6 +2933,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #253",
         " address": "251 Curry Hollow Rd Pittsburgh PA 15236"
       },
@@ -2765,6 +2949,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #254",
         " address": "900 Chestnut Ridge R Morgantown WV 26505"
       },
@@ -2780,6 +2965,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #255",
         " address": "1484 Carlisle Rd York PA 17408"
       },
@@ -2795,6 +2981,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #256",
         " address": "554 Shoemaker Ave Shoemakersville PA 19555"
       },
@@ -2810,6 +2997,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #257",
         " address": "1699 Oregon Pike Lancaster PA 17601"
       },
@@ -2825,6 +3013,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #258",
         " address": "900 Gordon Nagle Trl Pottsville PA 17901"
       },
@@ -2840,6 +3029,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #259",
         " address": "17188 Owens Dr King George VA 22485"
       },
@@ -2855,6 +3045,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #260",
         " address": "7119 Us 322  Box 228 Cranberry PA 16319"
       },
@@ -2870,6 +3061,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #261",
         " address": "12259 E Lynchburg Sa Forest VA 24551"
       },
@@ -2885,6 +3077,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #262",
         " address": "1396 S Potomac St Hagerstown MD 21740"
       },
@@ -2900,6 +3093,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #263",
         " address": "1900 Ritner Hwy Carlisle PA 17013"
       },
@@ -2915,6 +3109,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #264",
         " address": "10 Washington Square Fredericksburg VA 22405"
       },
@@ -2930,6 +3125,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #265",
         " address": "14480 Wards Rd Lynchburg VA 24501"
       },
@@ -2945,6 +3141,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #266",
         " address": "9745 State Route 14 Streetsboro OH 44241"
       },
@@ -2960,6 +3157,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #267",
         " address": "915 Edwards Ferry Rd Leesburg VA 20176"
       },
@@ -2975,6 +3173,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #268",
         " address": "3200 Cape Horn Rd Red Lion PA 17356"
       },
@@ -2990,6 +3189,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #269",
         " address": "4179 Oregon Pike Ephrata PA 17522"
       },
@@ -3005,6 +3205,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #270",
         " address": "8504 Centreville Rd Manassas Park VA 20111"
       },
@@ -3020,6 +3221,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #271",
         " address": "2630 Lakeside Dr Lynchburg VA 24501"
       },
@@ -3035,6 +3237,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #272",
         " address": "4089 S Amherst Hwy Madison Heights VA 24572"
       },
@@ -3050,6 +3253,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #273",
         " address": "6600 Perkiomen Ave Birdsboro PA 19508"
       },
@@ -3065,6 +3269,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #274",
         " address": "2411 N Ridge Rd E Ashtabula OH 44004"
       },
@@ -3080,6 +3285,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #275",
         " address": "1 Chaplin Rd Morgantown WV 26501"
       },
@@ -3095,6 +3301,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #276",
         " address": "240 E Chestnut St Mifflinburg PA 17844"
       },
@@ -3110,6 +3317,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #277",
         " address": "12000 Perry Hwy Wexford PA 15090"
       },
@@ -3125,6 +3333,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #278",
         " address": "10 New Salem Rd Uniontown PA 15401"
       },
@@ -3140,6 +3349,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #279",
         " address": "2401 Washington Rd Canonsburg PA 15317"
       },
@@ -3155,6 +3365,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #280",
         " address": "288 Hogan Blvd Mill Hall PA 17751"
       },
@@ -3170,6 +3381,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #281",
         " address": "5499 Mahoning Ave Austintown OH 44515"
       },
@@ -3185,6 +3397,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #282",
         " address": "1162 Niles Cortland  Warren OH 44484"
       },
@@ -3200,6 +3413,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #283",
         " address": "330 Westminster Dr Williamsport PA 17701"
       },
@@ -3215,6 +3429,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #284",
         " address": "111 E Roy Furman Hig Waynesburg PA 15370"
       },
@@ -3230,6 +3445,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #285",
         " address": "332 Madison Rd Orange VA 22960"
       },
@@ -3245,6 +3461,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #286",
         " address": "10036 Sliding Hill R Ashland VA 23005"
       },
@@ -3260,6 +3477,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #287",
         " address": "101 Valley Vista Dr State College PA 16803"
       },
@@ -3275,6 +3493,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #288",
         " address": "1550 State Rd Duncannon PA 17020"
       },
@@ -3290,6 +3509,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #289",
         " address": "4661 Penn Ave Sinking Spring PA 19608"
       },
@@ -3305,6 +3525,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #290",
         " address": "1804 Tappahannock Bl Tappahannock VA 22560"
       },
@@ -3320,6 +3541,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #291",
         " address": "101 Airport Rd Hazle Township PA 18202"
       },
@@ -3335,6 +3557,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #292",
         " address": "22711 Three Notch Rd California MD 20619"
       },
@@ -3350,6 +3573,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #293",
         " address": "5515 Pottsville Pike Leesport PA 19533"
       },
@@ -3365,6 +3589,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #294",
         " address": "3379 Elm Rd Ne Warren OH 44484"
       },
@@ -3380,6 +3605,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #295",
         " address": "2703 Peters Creek Rd Roanoke VA 24019"
       },
@@ -3395,6 +3621,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #296",
         " address": "950 E Steels Corners Stow OH 44224"
       },
@@ -3410,6 +3637,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #297",
         " address": "464 Wilkes Barre Tow Wilkes Barre PA 18702"
       },
@@ -3425,6 +3653,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #298",
         " address": "1526 W Main Street E Grove City PA 16127"
       },
@@ -3440,6 +3669,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #299",
         " address": "1931 Butler Pike Grove City PA 16127"
       },
@@ -3455,6 +3685,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #300",
         " address": "1212 Williamson Rd N Roanoke VA 24012"
       },
@@ -3470,6 +3701,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #301",
         " address": "6941 State Route 44 Ravenna OH 44266"
       },
@@ -3485,6 +3717,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #302",
         " address": "1250 Richmond Ave Staunton VA 24402"
       },
@@ -3500,6 +3733,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #303",
         " address": "2902 S Seminole Trl Madison VA 22727"
       },
@@ -3515,6 +3749,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #304",
         " address": "25224 Poland Rd Chantilly VA 20152"
       },
@@ -3530,6 +3765,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #305",
         " address": "2721 S Queen St York PA 17403"
       },
@@ -3545,6 +3781,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #306",
         " address": "3425 Riverside Dr Danville VA 24541"
       },
@@ -3560,6 +3797,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #307",
         " address": "11449 Kings Hwy King George VA 22485"
       },
@@ -3575,6 +3813,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #308",
         " address": "6758 Greensboro Rd Ridgeway VA 24148"
       },
@@ -3590,6 +3829,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #309",
         " address": "1574 Martinsburg Pik Winchester VA 22602"
       },
@@ -3605,6 +3845,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #310",
         " address": "9010 Market St North Lima OH 44452"
       },
@@ -3620,6 +3861,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #311",
         " address": "20 W Waterloo Rd Akron OH 44319"
       },
@@ -3635,6 +3877,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #312",
         " address": "1555 E Main St Mt Joy PA 17552"
       },
@@ -3650,6 +3893,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #313",
         " address": "13700 Rt 30 North Huntingdon PA 15642"
       },
@@ -3665,6 +3909,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #314",
         " address": "8299 Route 22 New Alexandria PA 15670"
       },
@@ -3680,6 +3925,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #315",
         " address": "12341 Washington Hwy Ashland VA 23005"
       },
@@ -3695,6 +3941,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #316",
         " address": "601 Pulaski Hwy Joppa MD 21085"
       },
@@ -3710,6 +3957,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #317",
         " address": "1210 Main St Cuyahoga Falls OH 44221"
       },
@@ -3725,6 +3973,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #318",
         " address": "20760 Old Great Mill Great Mills MD 20634"
       },
@@ -3740,6 +3989,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #319",
         " address": "163 S Memorial Hwy Trucksville PA 18708"
       },
@@ -3755,6 +4005,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #320",
         " address": "2000 N Franklin St Christiansburg VA 24073"
       },
@@ -3770,6 +4021,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #321",
         " address": "2711 Conduit Rd Colonial Heights VA 23834"
       },
@@ -3785,6 +4037,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #322",
         " address": "2053 Huguenot Rd Richmond VA 23235"
       },
@@ -3800,6 +4053,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #323",
         " address": "5504 Germanna Hwy Locust Grove VA 22508"
       },
@@ -3815,6 +4069,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #324",
         " address": "5100 Ridge Rd Wadsworth OH 44281"
       },
@@ -3830,6 +4085,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #325",
         " address": "1435 Apperson Dr Salem VA 24153"
       },
@@ -3845,6 +4101,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #326",
         " address": "30 Camp Letterman Dr Gettysburg PA 17325"
       },
@@ -3860,6 +4117,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #327",
         " address": "2100 Mosside Blvd Monroeville PA 15146"
       },
@@ -3875,6 +4133,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #328",
         " address": "4585 Boardman Canfie Canfield OH 44406"
       },
@@ -3890,6 +4149,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #329",
         " address": "265 Old Franklin Tpk Rocky Mount VA 24151"
       },
@@ -3905,6 +4165,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #330",
         " address": "5001 Macarthur Rd Whitehall PA 18052"
       },
@@ -3920,6 +4181,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #331",
         " address": "2600 Anderson Hwy Powhatan VA 23139"
       },
@@ -3935,6 +4197,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #332",
         " address": "798 E Market St Harrisonburg VA 22801"
       },
@@ -3950,6 +4213,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #333",
         " address": "1340 W Main St Salem VA 24153"
       },
@@ -3965,6 +4229,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #334",
         " address": "5930 Route 6n Edinboro PA 16412"
       },
@@ -3980,6 +4245,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #335",
         " address": "499 Evans City Rd Butler PA 16001"
       },
@@ -3995,6 +4261,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #336",
         " address": "105 Maynard St Williamsport PA 17701"
       },
@@ -4010,6 +4277,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #337",
         " address": "16590 Conneaut Lake  Meadville PA 16335"
       },
@@ -4025,6 +4293,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #338",
         " address": "20 S Providence Rd Richmond VA 23236"
       },
@@ -4040,6 +4309,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #339",
         " address": "765 Benner Pike State College PA 16801"
       },
@@ -4055,6 +4325,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #340",
         " address": "1007 Philpott Rd South Boston VA 24592"
       },
@@ -4070,6 +4341,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #341",
         " address": "9401 Amberdale Dr Richmond VA 23236"
       },
@@ -4085,6 +4357,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #342",
         " address": "5057 Tuscarawas St W Canton OH 44708"
       },
@@ -4100,6 +4373,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #343",
         " address": "1101 Oneill Hwy Dunmore PA 18512"
       },
@@ -4115,6 +4389,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #344",
         " address": "1233 Highway 315 Blv Plains Township PA 18702"
       },
@@ -4130,6 +4405,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #345",
         " address": "3830 Main St Morgantown PA 19543"
       },
@@ -4145,6 +4421,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #346",
         " address": "2001 Carl D Silver P Fredericksburg VA 22401"
       },
@@ -4160,6 +4437,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #347",
         " address": "32390 Lorain Rd North Ridgeville OH 44039"
       },
@@ -4175,6 +4453,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #348",
         " address": "4025 W Market St York PA 17408"
       },
@@ -4190,6 +4469,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #349",
         " address": "1901 Earl L Core Rd Morgantown WV 26505"
       },
@@ -4205,6 +4485,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #350",
         " address": "7035 W Broad St Richmond VA 23294"
       },
@@ -4220,6 +4501,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #351",
         " address": "658 East Main Street Hummelstown PA 17036"
       },
@@ -4235,6 +4517,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #352",
         " address": "4354 Business 220 Bedford PA 15522"
       },
@@ -4250,6 +4533,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #353",
         " address": "5410 Campbells Run R Pittsburgh PA 15205"
       },
@@ -4265,6 +4549,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #354",
         " address": "1915 Pleasant Valley Altoona PA 16602"
       },
@@ -4280,6 +4565,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #355",
         " address": "5198 Reidsville Rd Walkertown NC 27051"
       },
@@ -4295,6 +4581,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #356",
         " address": "4319 W Wendover Ave Greensboro NC 27407"
       },
@@ -4310,6 +4597,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #357",
         " address": "1281 W High Ave New Philadelphia OH 44663"
       },
@@ -4325,6 +4613,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #358",
         " address": "7335 Lee Hwy Fairlawn VA 24141"
       },
@@ -4340,6 +4629,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #359",
         " address": "610 Scranton Carbond Scranton PA 18508"
       },
@@ -4355,6 +4645,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #360",
         " address": "3954 William Penn Hw Monroeville PA 15146"
       },
@@ -4370,6 +4661,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #361",
         " address": "4801 Thornton Rd Raleigh NC 27616"
       },
@@ -4385,6 +4677,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #362",
         " address": "887 National Rd Wheeling WV 26003"
       },
@@ -4400,6 +4693,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #363",
         " address": "1109 Northern Blvd Clarks Summit PA 18411"
       },
@@ -4415,6 +4709,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #364",
         " address": "726 Tinkling Spring  Fisherville VA 22939"
       },
@@ -4430,6 +4725,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #365",
         " address": "1655 N Main St Fuquay-varina NC 27526"
       },
@@ -4445,6 +4741,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #366",
         " address": "5421 Hornaday Rd Greensboro NC 27407"
       },
@@ -4460,6 +4757,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #367",
         " address": "4816 Buffalo Rd Erie PA 16510"
       },
@@ -4475,6 +4773,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #368",
         " address": "1651 E Turkeyfoot La Akron OH 44312"
       },
@@ -4490,6 +4789,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #369",
         " address": "2260 Route 119 Hwy S Homer City PA 15748"
       },
@@ -4505,6 +4805,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #370",
         " address": "195 Rocherty Rd Lebanon PA 17042"
       },
@@ -4520,6 +4821,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #371",
         " address": "5200 New Bern Ave Raleigh NC 27610"
       },
@@ -4535,6 +4837,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #372",
         " address": "116 Woodbine Ln Danville PA 17821"
       },
@@ -4550,6 +4853,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #373",
         " address": "2068 S Queen St York PA 17403"
       },
@@ -4565,6 +4869,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #374",
         " address": "3695 Paxton St Harrisburg PA 17113"
       },
@@ -4580,6 +4885,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #375",
         " address": "236 W State St Alliance OH 44601"
       },
@@ -4595,6 +4901,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #376",
         " address": "1000 Clairton Blvd. Pittsburgh PA 15236"
       },
@@ -4610,6 +4917,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #377",
         " address": "4692 Sr 51 S Belle Vernon PA 15012"
       },
@@ -4625,6 +4933,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #378",
         " address": "260 International Dr Lewisburg PA 17837"
       },
@@ -4640,6 +4949,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #379",
         " address": "9002 University Blvd Moon Township PA 15108"
       },
@@ -4655,6 +4965,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #380",
         " address": "1237 Mebane Oaks Rd Mebane NC 27302"
       },
@@ -4670,6 +4981,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #381",
         " address": "3450 Wilmington Rd New Castle PA 16105"
       },
@@ -4685,6 +4997,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #382",
         " address": "1650 N Hermitage Rd Hermitage PA 16148"
       },
@@ -4700,6 +5013,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #383",
         " address": "564 Us 1 Hwy Youngsville NC 27596"
       },
@@ -4715,6 +5029,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #384",
         " address": "3201 Schoenersville  Bethlehem PA 18017"
       },
@@ -4730,6 +5045,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #385",
         " address": "2505 Somerset Center Winston-salem NC 27103"
       },
@@ -4745,6 +5061,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #386",
         " address": "231 E Hundred Rd Chester VA 23836"
       },
@@ -4760,6 +5077,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #387",
         " address": "2101 Southgate Pkwy Cambridge OH 43725"
       },
@@ -4775,6 +5093,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #388",
         " address": "3101 Columbia Ave Lancaster PA 17603"
       },
@@ -4790,6 +5109,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #389",
         " address": "2939 Whipple Ave Nw Canton OH 44708"
       },
@@ -4805,6 +5125,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #390",
         " address": "1762 E Main St Kent OH 44240"
       },
@@ -4820,6 +5141,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #391",
         " address": "2100 County Home Rd Greenville NC 27858"
       },
@@ -4835,6 +5157,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #392",
         " address": "875 Norland Ave Chambersburg PA 17201"
       },
@@ -4850,6 +5173,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #393",
         " address": "2495 E Aurora Rd Twinsburg OH 44087"
       },
@@ -4865,6 +5189,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #394",
         " address": "7777 Reynolds Rd Mentor OH 44060"
       },
@@ -4880,6 +5205,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #395",
         " address": "2016 S Main St Farmville VA 23901"
       },
@@ -4895,6 +5221,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #396",
         " address": "2835 Forest Hills Rd Wilson NC 27893"
       },
@@ -4910,6 +5237,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #397",
         " address": "1000 Charles Blvd Greenville NC 27858"
       },
@@ -4925,6 +5253,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #398",
         " address": "3021 S Miami Blvd Durham NC 27703"
       },
@@ -4940,6 +5269,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #399",
         " address": "1600 Aviation Parkwa Morrisville NC 27560"
       },
@@ -4955,6 +5285,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #400",
         " address": "117 S Michael St St. Mary's PA 15857"
       },
@@ -4970,6 +5301,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #401",
         " address": "13030 Washington Tow Waynesboro PA 17268"
       },
@@ -4985,6 +5317,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #402",
         " address": "717 S Pike Rd Sarver PA 16055"
       },
@@ -5000,6 +5333,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #403",
         " address": "3927 Wards Rd Lynchburg VA 24502"
       },
@@ -5015,6 +5349,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #404",
         " address": "2800 N Ridge Rd Perry OH 44081"
       },
@@ -5030,6 +5365,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #405",
         " address": "1244 Wilkesboro Hwy Statesville NC 28625"
       },
@@ -5045,6 +5381,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #406",
         " address": "225 N Maysville Ave Zanesville OH 43701"
       },
@@ -5060,6 +5397,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #407",
         " address": "1340 N 4th St Wytheville VA 24382"
       },
@@ -5075,6 +5413,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #408",
         " address": "2156 W Main St Waynesboro VA 22980"
       },
@@ -5090,6 +5429,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #409",
         " address": "650 Whitley Dr Winterville NC 28590"
       },
@@ -5105,6 +5445,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #410",
         " address": "270 Route 61 S Schuylkill Haven PA 17972"
       },
@@ -5120,6 +5461,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #411",
         " address": "12290 N Nc Highway 1 Winston-salem NC 27127"
       },
@@ -5135,6 +5477,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #412",
         " address": "6290 Allentown Blvd Harrisburg PA 17112"
       },
@@ -5150,6 +5493,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #413",
         " address": "493 N Us Route 15 Dillsburg PA 17019"
       },
@@ -5165,6 +5509,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #414",
         " address": "2980 Nc 68 South High Point NC 27265"
       },
@@ -5180,6 +5525,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #415",
         " address": "1201 Portertown Rd Greenville NC 27858"
       },
@@ -5195,6 +5541,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #416",
         " address": "1406 N Arendell Ave Zebulon NC 27597"
       },
@@ -5210,6 +5557,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #417",
         " address": "2628 Alamance Rd Burlington NC 27215"
       },
@@ -5225,6 +5573,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #418",
         " address": "5905 Finch Farm Rd Trinity NC 27370"
       },
@@ -5240,6 +5589,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #419",
         " address": "4 Mall Rd Barboursville WV 25504"
       },
@@ -5255,6 +5605,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #420",
         " address": "1015 Old 6th Ave Rd Altoona PA 16602"
       },
@@ -5270,6 +5621,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #421",
         " address": "1180 Manheim Pike Lancaster PA 17603"
       },
@@ -5285,6 +5637,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #422",
         " address": "21034 Royalton Rd Strongsville OH 44149"
       },
@@ -5300,6 +5653,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #423",
         " address": "3998 E Market St York PA 17402"
       },
@@ -5315,6 +5669,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #424",
         " address": "1304 Johns Creek Rd Milton WV 25541"
       },
@@ -5330,6 +5685,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #425",
         " address": "5715 Hammonds Mill R Martinsburg WV 25404"
       },
@@ -5345,6 +5701,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #426",
         " address": "1796 West Trindle Ro Carlisle PA 17013"
       },
@@ -5360,6 +5717,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #427",
         " address": "432 18th St W Huntington WV 25704"
       },
@@ -5375,6 +5733,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #428",
         " address": "102 N Van Buren Rd Eden NC 27288"
       },
@@ -5390,6 +5749,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #429",
         " address": "6 Cabela Dr Triadelphia WV 26059"
       },
@@ -5405,6 +5765,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #430",
         " address": "4375 Admiral Peary H Ebensburg PA 15931"
       },
@@ -5420,6 +5781,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #431",
         " address": "1415 Pittsburg Avenu North Canton OH 44720"
       },
@@ -5435,6 +5797,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #432",
         " address": "1001 Gardner Hill Dr Jamestown NC 27282"
       },
@@ -5450,6 +5813,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #433",
         " address": "104 St. Rt. 19 Hurricane WV 25526"
       },
@@ -5465,6 +5829,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #434",
         " address": "2100 West Front Stre Berwick PA 18603"
       },
@@ -5480,6 +5845,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #435",
         " address": "435 Water Street Chardon OH 44024"
       },
@@ -5495,6 +5861,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #436",
         " address": "790 North Main Stree Kernersville NC 27284"
       },
@@ -5510,6 +5877,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #437",
         " address": "1690 Benvenue Road Rocky Mount NC 27804"
       },
@@ -5525,6 +5893,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #438",
         " address": "1130 Marlow Road Charles Town WV 25414"
       },
@@ -5540,6 +5909,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #439",
         " address": "590 Allegheny Blvd Franklin PA 16323"
       },
@@ -5555,6 +5925,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #440",
         " address": "14449 Forest Rd Forest VA 24551"
       },
@@ -5570,6 +5941,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #441",
         " address": "5295 Detroit Rd Sheffield Village OH 44054"
       },
@@ -5585,6 +5957,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #442",
         " address": "7775 North Route 220 Linden PA 17744"
       },
@@ -5600,6 +5973,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #443",
         " address": "1300 Wal Street Summerville WV 26651"
       },
@@ -5615,6 +5989,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #444",
         " address": "27 Whitewater Ave Fayetteville WV 25840"
       },
@@ -5630,6 +6005,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #445",
         " address": "13510 St Rte 422 Kittanning PA 16201"
       },
@@ -5645,6 +6021,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #446",
         " address": "1525 Main St Follansbee WV 26037"
       },
@@ -5660,6 +6037,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #447",
         " address": "3715 North Wesleyan  Rocky Mount NC 27804"
       },
@@ -5675,6 +6053,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #448",
         " address": "1841 Baltimore Pike Hanover PA 17331"
       },
@@ -5690,6 +6069,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #449",
         " address": "6010 Derry Street Harrisburg PA 17111"
       },
@@ -5705,6 +6085,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #450",
         " address": "2850 Benner Pike Bellefonte PA 16823"
       },
@@ -5720,6 +6101,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #451",
         " address": "11104 Grindstone Hil Greencastle PA 17225"
       },
@@ -5735,6 +6117,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #452",
         " address": "600 North Mantua St Kent OH 44240"
       },
@@ -5750,6 +6133,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #453",
         " address": "5519 Gumtree Road Winston Salem NC 27107"
       },
@@ -5765,6 +6149,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #454",
         " address": "1065 East Dixie Driv Asheboro NC 27203"
       },
@@ -5780,6 +6165,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #455",
         " address": "1449 Yadkinville Roa Mocksville NC 27028"
       },
@@ -5795,6 +6181,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #456",
         " address": "751 Oakvale Road Princeton WV 24740"
       },
@@ -5810,6 +6197,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #457",
         " address": "5481 Robert C Byrd D Mt Hope WV 25880"
       },
@@ -5825,6 +6213,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #458",
         " address": "151 Courthouse Rd Princeton WV 24740"
       },
@@ -5840,6 +6229,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #459",
         " address": "2175 Hulton Road Verona PA 15147"
       },
@@ -5855,6 +6245,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #460",
         " address": "6930 West Market St Greensboro NC 27409"
       },
@@ -5870,6 +6261,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #461",
         " address": "54 Benvenue Road Duncannon PA 17020"
       },
@@ -5885,6 +6277,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #462",
         " address": "215 Arsenal Road York PA 17402"
       },
@@ -5900,6 +6293,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #463",
         " address": "551 St Route 93 Sugarloaf PA 18249"
       },
@@ -5915,6 +6309,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #464",
         " address": "191 Eastern Blvd No Hagerstown MD 21740"
       },
@@ -5930,6 +6325,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #465",
         " address": "6767 Ridge Road Parma OH 44129"
       },
@@ -5945,6 +6341,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #466",
         " address": "1819 Wayne Ave Chambersburg PA 17201"
       },
@@ -5960,6 +6357,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #467",
         " address": "3805 Teays Valley Ro Hurricane WV 25526"
       },
@@ -5975,6 +6373,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #468",
         " address": "3457 William Penn Hi Pittsburgh PA 15235"
       },
@@ -5990,6 +6389,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #469",
         " address": "3299 Ritner Highway Newville PA 17241"
       },
@@ -6005,6 +6405,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #470",
         " address": "1520 Jake Alexander  Salisbury NC 28146"
       },
@@ -6020,6 +6421,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #471",
         " address": "619 Ruin Creek Road Henderson NC 27536"
       },
@@ -6035,6 +6437,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #472",
         " address": "10206 South Main Str Archdale NC 27263"
       },
@@ -6050,6 +6453,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #473",
         " address": "810 Ritter Highway Beaver WV 25813"
       },
@@ -6065,6 +6469,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #474",
         " address": "85 West Wellsboro St Mansfield PA 16933"
       },
@@ -6080,6 +6485,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #475",
         " address": "120 South Ridge Plaz State College PA 16801"
       },
@@ -6095,6 +6501,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #476",
         " address": "3025 Babcock Blvd Pittsburgh PA 15237"
       },
@@ -6110,6 +6517,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #477",
         " address": "203 Craig Dell Road Lower Burrell PA 15068"
       },
@@ -6125,6 +6533,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #478",
         " address": "891 East Main St Ephrata PA 17522"
       },
@@ -6140,6 +6549,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #479",
         " address": "13433 Nc Highway 210 Benson NC 27504"
       },
@@ -6155,6 +6565,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #480",
         " address": "600 Corporate Center Raleigh NC 27607"
       },
@@ -6170,6 +6581,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #481",
         " address": "505 Wendell Blvd Wendell NC 27591"
       },
@@ -6185,6 +6597,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #482",
         " address": "1408 North Eisenhowe Beckley WV 25801"
       },
@@ -6200,6 +6613,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #483",
         " address": "703 East King St King NC 27021"
       },
@@ -6215,6 +6629,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #484",
         " address": "3941 West Market St Greensboro NC 27407"
       },
@@ -6230,6 +6645,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #485",
         " address": "108 South Bickett Bl Louisburg NC 27549"
       },
@@ -6245,6 +6661,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #486",
         " address": "3522 Monongahela Bou Star City WV 26505"
       },
@@ -6260,6 +6677,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #487",
         " address": "570 Pittsburgh Road Uniontown PA 15401"
       },
@@ -6275,6 +6693,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #488",
         " address": "2521 North Memorial  Greenville NC 27834"
       },
@@ -6290,6 +6709,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #489",
         " address": "1620 New Garden Road Greensboro NC 27410"
       },
@@ -6305,6 +6725,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #490",
         " address": "2905 Rockford St Mt Airy NC 27030"
       },
@@ -6320,6 +6741,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #491",
         " address": "135 Market Street Zion Crossroads VA 22942"
       },
@@ -6335,6 +6757,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #492",
         " address": "1138 South Main St Graham NC 27253"
       },
@@ -6350,6 +6773,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #493",
         " address": "119 South Main St Dobson NC 27017"
       },
@@ -6365,6 +6789,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #494",
         " address": "4344a Teays Valley R Scott Depot WV 25560"
       },
@@ -6380,6 +6805,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #495",
         " address": "8283 Old Us Highway  Lexington NC 27295"
       },
@@ -6395,6 +6821,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #496",
         " address": "1455 Scalp Ave Johnstown PA 15904"
       },
@@ -6410,6 +6837,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #497",
         " address": "12604 Dunnings Highw Claysburg PA 16625"
       },
@@ -6425,6 +6853,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #498",
         " address": "610 Route 22 Hwy W Blairsville PA 15717"
       },
@@ -6440,6 +6869,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #499",
         " address": "8180 Perry Highway Erie PA 16509"
       },
@@ -6455,6 +6885,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #500",
         " address": "1910 Mt Nebo Road Sewickley PA 15143"
       },
@@ -6470,6 +6901,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #501",
         " address": "101 Stoneybrook Rd Clarksburg WV 26301"
       },
@@ -6485,6 +6917,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #502",
         " address": "331 West Central Ave Titusville PA 16354"
       },
@@ -6500,6 +6933,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #503",
         " address": "101 Ronda Court North Huntingdon PA 15642"
       },
@@ -6515,6 +6949,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #504",
         " address": "157 North Old Carria Rocky Mount NC 27804"
       },
@@ -6530,6 +6965,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #505",
         " address": "1895 S Franklin St Wake Forest NC 27587"
       },
@@ -6545,6 +6981,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #506",
         " address": "1695 W 5th Street Washington NC 27889"
       },
@@ -6560,6 +6997,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #507",
         " address": "7900 Fayetteville Rd Raleigh NC 27603"
       },
@@ -6575,6 +7013,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #508",
         " address": "1647 Freeway Drive Reidsville NC 27320"
       },
@@ -6590,6 +7029,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #509",
         " address": "1300 Battleground Av Greensboro NC 27408"
       },
@@ -6605,6 +7045,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #510",
         " address": "805 South State St Yadkinville NC 27055"
       },
@@ -6620,6 +7061,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #511",
         " address": "1700 East Market St Smithfield NC 27577"
       },
@@ -6635,6 +7077,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #512",
         " address": "1400 Nc Hwy 66 South Kernersville NC 27284"
       },
@@ -6650,6 +7093,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #513",
         " address": "9915 Fayetteville Rd Raleigh NC 27603"
       },
@@ -6665,6 +7109,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #514",
         " address": "600 East Nelson St Lexington VA 24450"
       },
@@ -6680,6 +7125,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #515",
         " address": "4599 Library Road Bethel Park PA 15102"
       },
@@ -6695,6 +7141,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #516",
         " address": "20 Oakmont Lane Bridgeport WV 26330"
       },
@@ -6710,6 +7157,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #517",
         " address": "1457 Charleston Road Poca WV 25159"
       },
@@ -6725,6 +7173,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #518",
         " address": "6054 Carlisle Pike Mechanicsburg PA 17050"
       },
@@ -6740,6 +7189,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #519",
         " address": "6050 Buckeystown Pik Frederick MD 21704"
       },
@@ -6755,6 +7205,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #520",
         " address": "2425 Market Street North Warren PA 16365"
       },
@@ -6770,6 +7221,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #521",
         " address": "2000 Ehrman Road Cranberry Twp PA 16066"
       },
@@ -6785,6 +7237,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #522",
         " address": "3501 Nazareth Road Easton PA 18045"
       },
@@ -6800,6 +7253,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #523",
         " address": "4001 Union Deposit R Harrisburg PA 17109"
       },
@@ -6815,6 +7269,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #524",
         " address": "1023 Charlotte Highw Troutman NC 28166"
       },
@@ -6830,6 +7285,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #525",
         " address": "10700 Chapel Hill Ro Morrisville NC 27560"
       },
@@ -6845,6 +7301,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #526",
         " address": "7766 Lake Shore Blvd Mentor OH 44060"
       },
@@ -6860,6 +7317,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #527",
         " address": "5201 Simpson Ferry R Mechanicsburg PA 17050"
       },
@@ -6875,6 +7333,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #528",
         " address": "809 Main Street East Girard PA 16417"
       },
@@ -6890,6 +7349,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #529",
         " address": "1280 W Maple St Hartville OH 44632"
       },
@@ -6905,6 +7365,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #530",
         " address": "45 Muncy Creek Blvd Muncy PA 17756"
       },
@@ -6920,6 +7381,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #532",
         " address": "2807 Lafayette Blvd Fredericksburg VA 22408"
       },
@@ -6935,6 +7397,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #533",
         " address": "10315 Cascade Crossi Brooklyn OH 44144"
       },
@@ -6950,6 +7413,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #534",
         " address": "1001 N Spence Ave Goldsboro NC 27530"
       },
@@ -6965,6 +7429,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #535",
         " address": "401 Cc Camp Road Elkin NC 28621"
       },
@@ -6980,6 +7445,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "small",
+        "marker-color": "#ce223c",
         " store_id": "Sheetz #701",
         " address": "227 Conicville Blvd Mt Jackson VA 22842"
       },
